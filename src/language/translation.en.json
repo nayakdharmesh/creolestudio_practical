@@ -1,0 +1,19 @@
+{
+  "ERR_INTERNAL_SERVER": "Internal Server Error.",
+  "ERR_URL_NOT_FOUND": "Requested URL not found!",
+  "ERR_UNAUTH": "You are unauthorized.",
+  "ERR_EMAIL_NOT_EXIST_SYSTEM": "Email id doesn't exit in system",
+  "ERR_INVALID_PASSWORD": "Please enter correct password.",
+  "ERR_GENRIC_SYNTAX": "JSON request could not be parsed.",
+  "USER_UPDATED_SUCCESS": "Profile updated!!!",
+  "SIGNUP": "Your account created successfully",
+  "INVALID_CREDENTIALS": "Invalid credentials.",
+  "MSG_USER_SIGN_IN": "User login successfully",
+  "PROFILE_PIC":"Profile picture uploaded",
+  "PASS_CHANGE":"Password Change successfully",
+  "ADD_ADDRESS":"Address addedd successfully",
+  "GET_ADDRESS":"Address gets successfully",
+  "UPDATE_ADDRESS":"Address update successfully",
+  "DELETE_ADDRESS":"Address delete successfully"
+
+}
